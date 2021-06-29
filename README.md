@@ -2,9 +2,9 @@
 
 👀 Próximamente front-end, si soy avara, Full stack 😛.
 - 💞️ En el camino he aprendido diversos lenguajes y herramientas como:
-     - Java Script
+     - JavaScript
      - Java
-     - Pyhton
+     - Python
      - Html
      - Css
      - Figma
