@@ -1,7 +1,6 @@
 👋 Hola, Soy Lezmit
 
-👀 Próximamente front-end, si soy avara, Full stack 😛.
-- 💞️ En el camino he aprendido diversos lenguajes y herramientas como:
+- 💞️ En el camino estoy aprendiendo diversos lenguajes y herramientas como:
      - JavaScript
      - Java
      - Python
